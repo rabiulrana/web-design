@@ -1,0 +1,56 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+.loginf{
+	width: 100%;
+	height: 96vh;
+	background-image: linear-gradient(to bottom right,blue,red);
+	display: inline-block;
+
+}
+.login{
+	width: 400px;
+	height: auto;
+	display: block;
+
+	margin-left: 33%;
+	margin-top: 200px; 
+}
+.login h1{
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+}
+.login .aaa{
+	width: 250px;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 70px;
+	border-radius: 5px;
+	outline: none;
+	border: none;
+	background: rgba(255,255,255,.5);
+}
+.login .bbb{
+	width: 260px;
+	padding: 9px;
+	margin-top: 12px;
+	border-radius: 20px;
+    outline: none;
+    border: none;
+    margin-left: 70px;
+    background: rgba(255,255,255,.8);
+}
+.login p{
+	margin-left: 70px;
+	margin-top: 8px;
+	color: white
+}
+.login .ccc{
+	text-decoration: none;
+	color: white;
+	float: right;
+	margin-right: 70px;
+}
