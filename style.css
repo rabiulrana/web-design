@@ -1,0 +1,32 @@
+.full{
+	width: 100%;
+    height: 100%;
+    background: blue;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+.full .container{
+	width: 80%;
+margin-bottom: 100px;
+	margin-left: 10%;
+	margin-top: 100px;
+	display: flex;
+	background: yellow;
+}
+
+.one{
+	width: 50%;
+
+}
+.two{
+	width: 50%;
+	
+}
+.one img{
+	margin-top: 42px;
+    margin-left: 100px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
